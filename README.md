@@ -33,8 +33,8 @@ Códigos de respuesta: `201` usuario creado, `200` OK, `400` faltan datos, `401`
 
 1. Clonar el repositorio y entrar a la carpeta:
    ```bash
-   git clone https://github.com/<tu-usuario>/<tu-repo>.git
-   cd <tu-repo>
+   git clone https://github.com/Leonel060/PFO-2-Sistema-de-Gesti-n-de-Tareas-con-API-y-Base-de-Datos.git
+   cd PFO-2-Sistema-de-Gesti-n-de-Tareas-con-API-y-Base-de-Datos.git
    ```
 
 2. (Opcional, recomendado) Crear y activar un entorno virtual:
