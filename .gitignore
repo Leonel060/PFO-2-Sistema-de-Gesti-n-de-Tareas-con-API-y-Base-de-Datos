@@ -1,0 +1,9 @@
+# Entorno virtual
+.venv/
+
+# Base de datos local
+tareas.db
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
